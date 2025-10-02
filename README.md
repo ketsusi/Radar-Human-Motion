@@ -8,11 +8,13 @@ Equipped with **Bluetooth APP tuning** and a **protective enclosure**, making it
 
 ## ✨ Features
 - ✅ **Home Assistant & ESPHome compatible**
-- ✅ **Radar-based motion detection** (more accurate than PIR, supports micro-movement detection)
-- ✅ **Bluetooth APP tuning** (adjust parameters via smartphone app)
-- ✅ **ESP-01 module (GPIO2)** with OTA firmware upgrade support
-- ✅ **Wide voltage input: AC 85V ~ 240V**, plug-and-play
-- ✅ **Protective enclosure included** (safe, easy to install, clean appearance)
+- ✅ **Radar-based motion detection** (micro-movement support, more accurate than PIR)
+- ✅ **Bluetooth APP tuning** (configure sensitivity, range, and delay via smartphone)
+- ✅ **Pluggable ESP-01 module**  
+  - Easy to remove for firmware flashing  
+  - Supports OTA firmware upgrade  
+- ✅ **Wide voltage input: AC 85V ~ 240V**
+- ✅ **Protective enclosure included** (safe, easy to install, neat appearance)
 ---
 
 ## 📱 Bluetooth APP Tuning
