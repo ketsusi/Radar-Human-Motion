@@ -1,7 +1,7 @@
 # DIY Radar Human Motion Sensor Module
 
-A DIY radar-based human motion sensor compatible with **Home Assistant** and **ESPHome**.  
-This module integrates **Bluetooth APP configuration**, making it easy to adjust parameters such as sensitivity, detection distance, and delay directly from your smartphone.
+A DIY radar-based human motion sensor module compatible with **Home Assistant** and **ESPHome**.  
+Equipped with **Bluetooth APP tuning** and a **protective enclosure**, making it suitable for real smart home deployment.
 
 <img src="images/1-5.jpg" alt="Module image information" width="150">  <img src="images/2-5.jpg" alt="" width="150">  <img src="images/3-5.jpg" alt=" " width="150">  <img src="images/4-5.jpg" alt=" " width="150">  <img src="images/6-5.jpg" alt=" " width="150">
 ---
@@ -12,7 +12,7 @@ This module integrates **Bluetooth APP configuration**, making it easy to adjust
 - ✅ **Bluetooth APP tuning** (adjust parameters via smartphone app)
 - ✅ **ESP-01 module (GPIO2)** with OTA firmware upgrade support
 - ✅ **Wide voltage input: AC 85V ~ 240V**, plug-and-play
-
+- ✅ **Protective enclosure included** (safe, easy to install, clean appearance)
 ---
 
 ## 📱 Bluetooth APP Tuning
@@ -33,7 +33,7 @@ This module integrates **Bluetooth APP configuration**, making it easy to adjust
 - **Radar module** with Bluetooth APP configuration support
 - **ESP-01 WiFi module** (GPIO2 control)
 - Power supply: AC 85V ~ 240V
-
+- **Protective enclosure** for safe installation
 ---
 
 ## 📦 Installation
