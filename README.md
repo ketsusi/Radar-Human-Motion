@@ -1,6 +1,6 @@
 # Radar-Motion-Sensor-Module-for-Home-assistant-ESPHOME
 
-一个用于Home Assistant，DIY ESPHOME固件雷达感应模块，
+一个用于Home Assistant和ESPHOME的DIY雷达感应模块，
 
 A DIY radar sensor module for personal use, compatible with ESPHome and Home Assistant.
 
