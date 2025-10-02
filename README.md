@@ -3,7 +3,7 @@
 A DIY radar-based human motion sensor compatible with **Home Assistant** and **ESPHome**.  
 This module integrates **Bluetooth APP configuration**, making it easy to adjust parameters such as sensitivity, detection distance, and delay directly from your smartphone.
 
-<img src="images/1-5.jpg" alt="Module image information" width="150">  <img src="images/2-5.jpg" alt="" width="150">  <img src="images/3-5.jpg" alt=" " width="150">  <img src="images/4-5.jpg" alt=" " width="150">  <img src="images/5-5.jpg" alt=" " width="150">
+<img src="images/1-5.jpg" alt="Module image information" width="150">  <img src="images/2-5.jpg" alt="" width="150">  <img src="images/3-5.jpg" alt=" " width="150">  <img src="images/4-5.jpg" alt=" " width="150">  <img src="images/6-5.jpg" alt=" " width="150">
 ---
 
 ## ✨ Features
