@@ -22,7 +22,8 @@ This module integrates **Bluetooth APP configuration**, making it easy to adjust
   - Anti-interference settings  
 - Parameters are stored in the radar module, no need to reflash firmware.
 
-*(Demo screenshots of the APP can be added here)*
+![Bluetooth APP Tuning](images/11-3.png) ![](images/12-3.png) ![](images/13-3.png)
+
 
 ---
 
